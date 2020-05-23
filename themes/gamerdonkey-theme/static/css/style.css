@@ -1,0 +1,49 @@
+body {
+   background: black;
+   color: lightgray;
+   border: solid 1px lightgray;
+   margin: 1em auto;
+   max-width: 40em;
+   padding: 1em;
+   font-family: monospace;
+   font-size: 12pt;
+}
+
+a {
+   color: white;
+   font-weight: bold;
+}
+
+ul {
+   list-style-type: "* ";
+}
+
+header#banner {
+   display: none;
+}
+
+nav#menu {
+   width: 100%;
+   text-align: center;
+}
+
+nav#menu ul {
+   list-style: none;
+}
+
+nav#menu ul li {
+   display: inline;
+}
+
+nav#menu ul li::after {
+   content: ' | ';
+}
+
+nav#menu ul li:last-child::after {
+   content: '';
+}
+
+footer#contentinfo {
+   font-size: 0.7em;
+   text-align: center;
+}
