@@ -1,0 +1,8 @@
+{% extends "!simple/page.html" %}
+
+{% block content %}
+   {% import 'translations.html' as translations with context %}
+   {{ translations.translations_for(page) }}
+
+   {{ page.content }}
+{% endblock %}

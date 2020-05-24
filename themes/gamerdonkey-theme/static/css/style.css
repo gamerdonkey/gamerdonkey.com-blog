@@ -4,9 +4,8 @@ body {
    border: solid 1px lightgray;
    margin: 1em auto;
    max-width: 40em;
-   padding: 1em;
-   font-family: monospace;
-   font-size: 12pt;
+   padding: 0em 1em 1em 1em;
+   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
 
 a {
@@ -46,4 +45,13 @@ nav#menu ul li:last-child::after {
 footer#contentinfo {
    font-size: 0.7em;
    text-align: center;
+}
+
+ol#post-list {
+   list-style: none;
+   padding-left: 0em;
+}
+
+footer.post-info {
+   font-size: 0.8em;
 }
