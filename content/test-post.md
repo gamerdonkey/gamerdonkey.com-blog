@@ -2,6 +2,8 @@ Title: Test Post
 Date: 2020-05-23
 Category: Test
 Tags: test, deleteme
+Status: published
+Summary: A test post, wherein I talk about testing posts.
 
 In this post, I'll be talking about testing how making a post works.
 

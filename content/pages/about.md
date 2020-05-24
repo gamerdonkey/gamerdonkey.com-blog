@@ -1,4 +1,5 @@
 Title: about
+Status: published
 
 # Basic About Page
 
