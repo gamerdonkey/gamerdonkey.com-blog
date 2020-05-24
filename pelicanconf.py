@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'gamerdonkey'
-SITENAME = 'Projects and Thoughts'
-SITEURL = ''
+SITENAME = 'gamerdonkey'
+SITEURL = 'https://gamerdonkey.com'
 
 PATH = 'content'
 
@@ -34,6 +34,12 @@ DEFAULT_PAGINATION = 20
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-MENUITEMS = (('blog', SITEURL),)
+# Menu Options
+MENUITEMS = (('blog', SITEURL + '/'),)
 DISPLAY_PAGES_ON_MENU = True
 DISPLAY_CATEGORIES_ON_MENU = False
+
+# Content Options
+DEFAULT_METADATA = {
+   'status': 'draft',
+}
