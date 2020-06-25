@@ -1,7 +1,7 @@
 Title: work history
 Status: published
 
-# work history
+# > work history
 
 1. **Escape Room Tech** - *Breakout Como, 2018 - Present*
 
@@ -35,6 +35,13 @@ Status: published
 
     This was my first software development job. The scripts I built with Perl (I know) and Batch (...I know) were used to deploy software on student, professor, and employee workstations across campus. It was also my first time really developing with other people (class projects hardly seem to count). I worked closely with both students and full-time employees and I lead transitioning our deployment system to Windows Vista. I know how that sounds, but look at when this was happening!
 
-# extracurricular activities
+# > extracurricular activities
 
-# projects
+1. **Makerspace Board Member** - [*Columbia Gadget Works*](http://columbiagadgetworks.org/)
+
+    This is a volunteer position where we work to create a welcoming and useful space for all sorts of hackers and makers. I also do my own tinkering on projects involving microcontrollers, robotics, radio, and CNC machines.
+
+2. **Sound Guy** - *K-BAE Podcast*
+
+    I started out just helping to find budget-friendly-but-still-good-quality recording equipment but now I'm like their sound guy. Each week I take their recordings, process and filter the audio, and hand it back to them for final editing. The content is fun but it can be pretty NSFW, so do beware if you decide to look them up.
+
