@@ -55,3 +55,9 @@ ol#post-list {
 footer.post-info {
    font-size: 0.8em;
 }
+
+@media only screen and (max-width: 900px) {
+   body {
+      width: 87%;
+   }
+}
