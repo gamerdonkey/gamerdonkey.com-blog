@@ -1,0 +1,10 @@
+{% extends "!simple/article.html" %}
+
+{% block head %}
+{{ super() }}
+   <meta property="og:type" content="article" />
+   <meta property="og:url" content="{{ SITEURL }}/{{ article.url }}" />
+   <meta property="og:title" content="{{ article.title }}" />
+   <meta property="og:description" content="{{ article.summary | striptags }}" />
+   <meta property="og:image" content="{{ SITEURL }}/images/{% if article.opengraph_image is defined %}{{ article.opengraph_image }}{% else %}gamerdonkey_g_logo_og.png{% endif %}" />
+{% endblock %}
