@@ -4,13 +4,18 @@ from __future__ import unicode_literals
 
 AUTHOR = 'gamerdonkey'
 SITENAME = 'gamerdonkey'
-SITEURL = 'https://gamerdonkey.com'
+SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'America/Chicago'
 
 DEFAULT_LANG = 'en'
+
+# URL Options
+
+ARTICLE_URL = 'posts/{date:%Y}/{slug}/'
+ARTICLE_SAVE_AS = 'posts/{date:%Y}/{slug}/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
