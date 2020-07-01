@@ -48,3 +48,10 @@ DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_METADATA = {
    'status': 'draft',
 }
+
+# Static Files
+STATIC_PATHS = ['static']
+
+EXTRA_PATH_METADATA = {
+   'static/favicon.ico': {'path': 'favicon.ico'},
+}
