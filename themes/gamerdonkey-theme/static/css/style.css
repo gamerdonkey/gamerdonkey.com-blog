@@ -10,7 +10,6 @@ body {
 
 a {
    color: white;
-   font-weight: bold;
 }
 
 ul {
@@ -24,6 +23,7 @@ header#banner {
 nav#menu {
    width: 100%;
    text-align: center;
+   font-weight: bold;
 }
 
 nav#menu ul {
@@ -40,6 +40,11 @@ nav#menu ul li::after {
 
 nav#menu ul li:last-child::after {
    content: '';
+}
+
+img {
+   max-width: 100%;
+   height: auto;
 }
 
 footer#contentinfo {

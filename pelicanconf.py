@@ -50,7 +50,7 @@ DEFAULT_METADATA = {
 }
 
 # Static Files
-STATIC_PATHS = ['static']
+STATIC_PATHS = ['static', 'images']
 
 EXTRA_PATH_METADATA = {
    'static/favicon.ico': {'path': 'favicon.ico'},
