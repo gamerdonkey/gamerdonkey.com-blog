@@ -1,4 +1,4 @@
-Title: Installing a Lost App from a TWRP Full Backup
+Title: Installing a Lost Android App from a TWRP Full Backup
 Date: 2020-08-09
 Category: Projects
 Tags: android, twrp, backup, recovery
