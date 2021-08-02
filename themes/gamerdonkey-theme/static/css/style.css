@@ -1,19 +1,32 @@
 body {
-   background: black;
-   color: lightgray;
-   border: solid 1px lightgray;
+   background: #090909;
+   color: ghostwhite;
    margin: 1em auto;
    max-width: 50em;
    padding: 0em 1em 1em 1em;
    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
 
+h1, h2, h3, h4, h5, h6 {
+   color: snow;
+   content: '~ ';
+}
+
+.entry-content h1:before,
+.entry-content h2:before,
+.entry-content h3:before,
+.entry-content h4:before,
+.entry-content h5:before,
+.entry-content h6:before {
+   content: '~ '
+}
+
 a {
-   color: white;
+   color: darkorange;
 }
 
 ul {
-   list-style-type: "* ";
+   list-style-type: "-> ";
 }
 
 header#banner {
@@ -28,6 +41,7 @@ nav#menu {
 
 nav#menu ul {
    list-style: none;
+   padding-left: 0;
 }
 
 nav#menu ul li {
@@ -42,12 +56,18 @@ nav#menu ul li:last-child::after {
    content: '';
 }
 
+section#content {
+   border: 2px double ghostwhite;
+   padding: 0em 1em 1em 1em;
+}
+
 img {
    max-width: 100%;
    height: auto;
 }
 
 footer#contentinfo {
+   margin-top: 0.5em;
    font-size: 0.7em;
    text-align: center;
 }
