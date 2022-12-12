@@ -1,5 +1,5 @@
 Title: work history
-Status: published
+Status: hidden
 
 # > work history
 
