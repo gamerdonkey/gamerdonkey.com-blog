@@ -16,7 +16,7 @@ I don't know. I came up with it when I was like twelve. I guess I played more ga
 You can contact me at my username on google's email service or by finding me on one of the sites below.
 
 * [github](https://github.com/gamerdonkey)
-* [mastodon](https://mastodon.social/@gamerdonkey)
+* [mastodon](https://tacobelllabs.net/@gamerdonkey)
 * [twitch](https://www.twitch.tv/gamerdonkey)
 * [twitter](https://twitter.com/gamerdonkey)
 * [youtube](https://www.youtube.com/user/gamerdonkey)
