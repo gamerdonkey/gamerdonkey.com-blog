@@ -7,20 +7,6 @@ body {
    font-family: Futura, "Trebuchet MS", Arial, sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-   color: snow;
-   content: '~ ';
-}
-
-.entry-content h1:before,
-.entry-content h2:before,
-.entry-content h3:before,
-.entry-content h4:before,
-.entry-content h5:before,
-.entry-content h6:before {
-   content: '~ '
-}
-
 a {
    color: darkorange;
 }
@@ -29,7 +15,7 @@ ul {
    list-style-type: "-> ";
 }
 
-header#banner {
+header hgroup {
    display: none;
 }
 
@@ -66,7 +52,7 @@ nav#categories ul li:first-child::after {
    content: '';
 }
 
-section#content {
+main {
    border: 2px double ghostwhite;
    padding: 0em 1em 1em 1em;
 }
@@ -76,19 +62,18 @@ img {
    height: auto;
 }
 
-footer#contentinfo {
+body > footer > address {
    margin-top: 0.5em;
    font-size: 0.7em;
    text-align: center;
 }
 
-ol#post-list {
-   list-style: none;
-   padding-left: 0em;
+main > article > footer {
+   font-size: 0.8em;
 }
 
-footer.post-info {
-   font-size: 0.8em;
+main > article > footer > p {
+   margin: 0;
 }
 
 @media only screen and (max-width: 900px) {
