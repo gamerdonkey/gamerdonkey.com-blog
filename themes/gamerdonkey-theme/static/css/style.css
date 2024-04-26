@@ -2,9 +2,11 @@ body {
    background: #090909;
    color: ghostwhite;
    margin: 1em auto;
-   max-width: 50em;
-   padding: 0em 1em 1em 1em;
-   font-family: Futura, "Trebuchet MS", Arial, sans-serif;
+   max-width: 720px;
+   padding: 0em 1em;
+   font-family: monospace;
+   font-size: 10pt;
+   text-align: justify;
 }
 
 a {
@@ -54,7 +56,7 @@ nav#categories ul li:first-child::after {
 
 main {
    border: 2px double ghostwhite;
-   padding: 0em 1em 1em 1em;
+   padding: 2em;
 }
 
 img {
