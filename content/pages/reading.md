@@ -23,9 +23,11 @@ This is the first year I started writing down my thoughts, so from here on out t
 
 1. __*Animorphs: The Invasion* by K. A. Applegate__ - I never read *The Animorphs* when I was young, though I always wanted to. As an adult, the first book definitely kept me reading, though it definitely is for younger audiences. Still, it hits on some heavy themes and has some real shining moments. ★★★
 
-1. __*Animorphs: he Vistor* by K. A. Applegate__ - I immediately wanted to continue the series. They're short, digestible page-turners, and this second book does not disappoint. I like that we get a new protagonist and I enjoyed more time with animals and with the aliens. Also, this installment definitley cranks up the tension. ★★★
+1. __*Animorphs: The Vistor* by K. A. Applegate__ - I immediately wanted to continue the series. They're short, digestible page-turners, and this second book does not disappoint. I like that we get a new protagonist and I enjoyed more time with animals and with the aliens. Also, this installment definitley cranks up the tension. ★★★
 
 1. __*Johnny Mnemonic* by William Gibson__ - Just the short story, but I'm counting it. I found the story very engaging, especially compared to the movie (which I do like). Gibson is great at descriptions, and all the old-future tech is just wonderful. ★★★
+
+1. __*Neuromancer* by William Gibson__ - A re-read, after 15 years. I'd forgotten much, including how good the writing is. It's a very cool vision of a future that could have been. The characters are engaging and realistic in their way. Intriguing commentary on AI that also highlights the distance from what we now call AI. ★★★
 
 ## 2023
 
